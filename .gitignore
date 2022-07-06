@@ -1,4 +1,10 @@
 7fa2af80.pub
 cuda-keyring_1.0-1_all.deb
 **/logs
+**/logs/*
 **/.logs
+**/.logs/*
+**/.idea
+.idea/*
+.ipynb_checkpoints
+.ipynb_checkpoints/*
